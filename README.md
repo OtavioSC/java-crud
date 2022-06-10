@@ -2,9 +2,6 @@
 
 <br />
 <div align="center">
-  <a>
-    <img src="https://cdn-icons.flaticon.com/png/512/562/premium/562460.png?token=exp=1653921397~hmac=324aea44c8fbbddb7ce9cd7815e7ce8b" alt="Logo" width="80" height="80">
-  </a>
 
   <h3 align="center">Java CRUD</h3>
 
